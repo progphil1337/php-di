@@ -1,4 +1,4 @@
-# PHP-HTML
+# PHP-DI
 Simple but effective dependency injection library
 
 ## Installation
