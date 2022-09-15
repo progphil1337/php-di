@@ -1,0 +1,21 @@
+{
+    "name": "progphil1337/php-di",
+    "description": "Simple but effective dependency injection library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ProgPhil1337\\DependencyInjection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philipp Lohmann",
+            "email": "lohmann.philipp@gmx.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1"
+    }
+}
